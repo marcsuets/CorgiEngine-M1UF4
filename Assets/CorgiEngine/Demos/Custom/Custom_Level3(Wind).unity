@@ -20411,6 +20411,11 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
+    - target: {fileID: 114922195585570960, guid: e1ead83d3be514e2086688375a354814,
+        type: 3}
+      propertyPath: LevelName
+      value: Joc FACIL
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

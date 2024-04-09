@@ -15,6 +15,24 @@ EditorBuildSettings:
     path: Assets/CorgiEngine/Demos/Custom/Custom_Level3(Wind).unity
     guid: 9cd92e14a3607cc4d83395370810e52e
   - enabled: 1
+    path: "Assets/CorgiEngine/Demos/Custom/Nivell 1 facil c\xF2pia.unity"
+    guid: b75203cf9d737ae4cbdd5ba5e5c9936c
+  - enabled: 1
+    path: "Assets/CorgiEngine/Demos/Custom/Nivell 2 Medio c\xF2pia.unity"
+    guid: 4c3ea0d1f2a9a1747b4523beb81e587d
+  - enabled: 1
+    path: "Assets/CorgiEngine/Demos/Custom/Nivell 3 Dificil c\xF2pia.unity"
+    guid: b641bebefc9bfd341b89b66614de031e
+  - enabled: 1
+    path: Assets/CorgiEngine/Demos/Custom/Joc FACIL.unity
+    guid: ddd266738e9221b46a83f9cc3c6e16ed
+  - enabled: 1
+    path: Assets/CorgiEngine/Demos/Custom/Joc MITG.unity
+    guid: 557f626560aa6e442b08345e56242f08
+  - enabled: 1
+    path: Assets/CorgiEngine/Demos/Custom/Joc DIFICIL.unity
+    guid: d9018f424e7effe49a621940887979c1
+  - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/LoadingScreen.unity
     guid: 888394d52616e5e42b3b54c3f2bbd3eb
   m_configObjects: {}
